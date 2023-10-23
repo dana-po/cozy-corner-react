@@ -1,11 +1,11 @@
 ##  shopping app
 
-It can let users register accounts, log in and out, pay and join newsletter.
-Users can add shopping cart and then go to payment.
-I also add a fake credit card on the payment page, since you won't buy anything from my fake website!
-But you could try to pay using that fake credit card and see what will show on the screen.
+My shopping platform demo provides users with a seamless experience. Users can easily register accounts, log in, and log out at their convenience. I also offer a newsletter subscription for those interested in staying updated.
 
-Users can filter and sort the products page, just like normal shopping website.
-Besides, there is also a stock number linked to every products. You cannot add products more than its stock!
+Once registered, users can add items to their shopping cart and proceed to make a secure payment, ensuring a hassle-free shopping experience. 
+Please note that while there is an option for card payment, there is no actual charge since this is a demonstration website.
 
-Now go to and enjoy your journey!
+For a realistic shopping experience, users can filter and sort products, just like on any typical online shopping platform.
+Each product has a stock number, ensuring that you cannot order more items than I have in inventory.
+
+I invite you to explore my platform and enjoy your shopping journey!
