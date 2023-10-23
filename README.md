@@ -1,4 +1,4 @@
-##  shopping app
+## Cozy-Corner-Store
 
 This shopping platform test demo provides users with a seamless experience.
 
